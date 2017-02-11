@@ -1,0 +1,1 @@
+echo "TypeScript Compilation Done";
